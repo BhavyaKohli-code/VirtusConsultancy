@@ -1,13 +1,13 @@
 import React from 'react';
 import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
 import './App.css';
-import Navbar from './Components/Navbar/Navbar'; // Correct import
-import Whatwedo from './Components/Whatwedo/Whatwedo';
+import Navbar from './Components/Navbar/Navbar.jsx'; // Correct import
+import Whatwedo from './Components/Whatwedo/Whatwedo.jsx';
 import Whoweare from './Components/whoweare/Whoweare.jsx';
 import Casestudy from './Components/casestudies/Casestudies';
-import Landingpage from './Components/Hero/Landingpage';
-import Contactform from './Components/Contact/Contactform';
-import Footer from './Components/footer/Footer';
+import Landingpage from './Components/Hero/Landingpage.jsx';
+import Contactform from './Components/Contact/Contactform.jsx';
+import Footer from './Components/footer/Footer.jsx';
 import Businessconsultancy from './Components/MASTERPAGES-head/Businessconsultancy.jsx';
 import SocialMediaManagement from './Components/MASTERPAGES-head/SMM.jsx';
 
