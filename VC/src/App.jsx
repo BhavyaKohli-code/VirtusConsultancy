@@ -2,7 +2,6 @@ import React from 'react';
 import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
 import './App.css';
 import Navbar from './Components/Navbar/Navbar.jsx'; // Correct import
-import Whatwedo from './Components/Whatwedo/Whatwedo.jsx';
 import Whoweare from './Components/whoweare/Whoweare.jsx';
 import Casestudy from './Components/casestudies/Casestudies';
 import Landingpage from './Components/Hero/Landingpage.jsx';
