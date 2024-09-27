@@ -1,6 +1,6 @@
 import React from 'react'
 import herobg from './herobg.svg'
-import styles from '../navbar/navbar.module.css';
+import styles from '../Navbar/navbar.module.css';
 import { motion } from "framer-motion"
 import img2 from '../Hero/sec2img.svg'
 import rightarrow from '../Hero/rightarrow.svg'
